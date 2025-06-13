@@ -1,4 +1,4 @@
-# mikrotik-aruba
+# Create Vlan on mikrotik and assign to aruba
 ## A. Mikrotik
 1. Create VLAN for each SSID
 
